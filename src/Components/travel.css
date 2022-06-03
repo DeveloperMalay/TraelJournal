@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  position: absolute;
+  margin: 20px;
+  top: 4%;
+  left: 15%;
+  bottom: 2%;
+  width: 70%;
+  height: 75rem;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+.footer{
+    height: 10rem;
+}
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: red;
+  border: 1px solid red;
+  border-radius: 10px 10px 0 0;
+  color: #ffff;
+}
+.logo img {
+  width: 3rem;
+  color: #ffff;
+}
+.details-journal {
+  margin: 30px;
+}
+
+.location-details {
+  display: flex;
+}
+.location-about {
+  margin: 20px;
+}
+.location-img img {
+  width: 12rem;
+  border-radius: 12px;
+}
+.first-line {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.first-line p {
+  margin-right: 10px;
+  text-align: center;
+}
+.location-logo img {
+  width: 30px;
+}
+.paragraph h1 {
+  margin-bottom: 15px;
+  margin-left: 10px;
+}
+.paragraph P {
+  margin-bottom: 25px;
+  margin-left: 10px;
+}
+
+hr {
+  width: 94%;
+  margin-left: 30px;
+}
